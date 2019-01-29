@@ -10,7 +10,6 @@
     --channels-selected:#191919;
     --channels-text-selected:#9fca2b;
     --chat-color:#1a1a1a;
-    --chat-size:15px;
     --mention-color:#1f1f1f;
     --scrollbar-bg:#2d2d2d;
     --scrollbar-thumb:#414141;
@@ -365,10 +364,10 @@ input,textarea{
     font-size:13px
 }
 .timestampCozy-2hLAPV{
-    font-size:9px
+    font-size:13px
 }
 .markup-2BOw-j{
-    font-size:11px;
+    font-size:15px;
     line-height:1.4em
 }
 .markup-2BOw-j pre{
